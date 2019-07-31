@@ -1,0 +1,2 @@
+# dxdiagPau
+dxdiag
